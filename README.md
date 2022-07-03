@@ -33,9 +33,9 @@ node_modules/
 
 ## Add files to the project
 - `git init`
-- `git add .`  (Add all files)
-	- `git add [file1, file2...]` (Add individual files)
-- `git commit -m "first commit"` (Always need to make a commit)
-- `git branch -M main` (Create branch)
-- `git remote add origin git@github.com:vaaako/REPOSITORY'S-NAME.git` (Add repository)
-- `git push -u origin main` (Apply changes)
+- `git add .` - Add all files
+	- `git add [file1, file2...]` - Add individual files
+- `git commit -m "first commit"` - (Always need to make a commit
+- `git branch -M main` - Create branch
+- `git remote add origin git@github.com:vaaako/REPOSITORY'S-NAME.git` - Add repository
+- `git push -u origin main` - Apply changes
